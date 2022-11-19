@@ -10,11 +10,11 @@ Qual o problema que ele visa resolver
     
 Como executá-lo?
 
-    Primeiramente instale os requerimentos contidos no arviro requerimens.txt
+    Primeiramente instale os requerimentos contidos no arviro requirements.txt
 --------------------------------------------------------------------------
     Ative o ambiente virtual Venv
 --------------------------------------------------------------------------
-    Execute o comando python manage.py runserver
+    Execute o comando: python manage.py runserver
 --------------------------------------------------------------------------
     Pronto esta tudo funcionado 
 --------------------------------------------------------------------------
