@@ -16,6 +16,8 @@ Atraves do comando:pip install Django==4.1;
 
 ```
 
+Apos instalar as dependencias instalar e ativar o ambiente virtual.
+
 ### Ativando o ambiente virtual Venv
 
 ```
@@ -23,6 +25,7 @@ Crie um ambiente virtual com o seguinte comando:python3 -m venv ./venv
 Ative seu ambiente virtual com o seguinte comando(linux):source venv/bin/activate
 Instale o Django nesse ambiente virtualizado:pip install django
 ```
+Apos ativar ja estara pronto para executar o projeto.
 
 ### Rodando a aplicação
 
