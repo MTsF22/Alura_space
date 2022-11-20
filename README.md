@@ -25,7 +25,7 @@ Crie um ambiente virtual com o seguinte comando:python3 -m venv ./venv
 Ative seu ambiente virtual com o seguinte comando(linux):source venv/bin/activate
 Instale o Django nesse ambiente virtualizado:pip install django
 ```
-Apos ativar ja estara pronto para executar o projeto.
+Apos ativar, estara pronto para executar o projeto.
 
 ### Rodando a aplicação
 
